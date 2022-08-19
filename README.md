@@ -1,6 +1,6 @@
 # Data Structure And Algorithms
 
-![](https://img.shields.io/badge/java-v17.0.4-red?style=flat&logo=openjdk)
+![](https://img.shields.io/badge/java-v17.0.4-red?style=flat&logo=java)
 
 </br>
 <p align='left'>
