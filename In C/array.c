@@ -60,7 +60,7 @@ int check_no(int n)
         }
         i += 1;
     }
-    return 0;
+    return -1;
 }
 
 void delete_element()
@@ -70,7 +70,7 @@ void delete_element()
     printf("\nEnter the Element Which You want to Delete : ");
     scanf("%d", &n);
     int present = check_no(n);
-    if (present == 0)
+    if (present == -1)
     {
         printf("\n%d is not Present", n);
     }
@@ -92,7 +92,7 @@ void search_element()
     printf("\nEnter the element to Be Searched : ");
     scanf("%d", &n);
     int present = check_no(n);
-    if (present == 0)
+    if (present == -1)
     {
         printf("\n Entered element is not present");
     }

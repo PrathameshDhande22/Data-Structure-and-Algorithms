@@ -6,8 +6,8 @@ This folder contains the Code in C language for Doing the Data Structure and Alg
 
 ### Contains : </br>
 1. **Array** : </br>
-&nbsp; filename: array.c </br>
-&nbsp; Description :Include Array deletion,insertion,searching operation in Array.
+&nbsp; filename : array.c </br>
+&nbsp; Description : Include Array deletion,insertion,searching operation in Array.
 </br>
 More code will be Posted.
 
