@@ -1,5 +1,7 @@
 # Data Structure and Algorithms in C Language
-</br>
+
+![](https://img.shields.io/badge/language-C-blue?style=flat-square&logo=c)
+
 <p align='left'>
 This folder contains the Code in C language for Doing the Data Structure and Algorithms.
 </p>
@@ -7,8 +9,12 @@ This folder contains the Code in C language for Doing the Data Structure and Alg
 ### Contains : </br>
 1. **Array** : </br>
 &nbsp; filename : array.c </br>
-&nbsp; Description : Include Array deletion,insertion,searching operation in Array.
+&nbsp; Description : Creating simple Array deletion,insertion,searching operation.
 </br>
+2. **Dynamic Array** : </br>
+&nbsp; filename : adt_array.c </br>
+&nbsp; Description : Creating the Dynamic Array and applying Insertion and Deletion Tecniques.</br>
+
 More code will be Posted.
 
 ### Author : Prathamesh Dhande
