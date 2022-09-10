@@ -7,7 +7,12 @@ Contains all the code for DSA written in Java.</br>
 ### Contains :
 1. **Array** :</br>
 &nbsp;filename : array.java</br>
-&nbsp;Description : Insertion,Deletion and Searching in the Array.</br>
+&nbsp;Description : Insertion,Deletion and Searching in the Array.
+
+2. **Searching Algorithm** :</br>
+&nbsp; filename: searching_algorithm.java</br>
+&nbsp; Description : Implemented the binary and linear search. 
+</br>
 
 More code will be Posted here.
 

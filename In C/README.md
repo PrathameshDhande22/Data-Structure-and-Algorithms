@@ -13,7 +13,12 @@ This folder contains the Code in C language for Doing the Data Structure and Alg
 
 2. **Dynamic Array** : </br>
 &nbsp; filename : adt_array.c </br>
-&nbsp; Description : Creating the Dynamic Array and applying Insertion and Deletion Tecniques.</br>
+&nbsp; Description : Creating the Dynamic Array and applying Insertion and Deletion Tecniques.
+
+3. **Searching Algorithm** :</br>
+&nbsp; filename : searching_algorithm.c </br>
+&nbsp; Description : Implemented the Linear Search and Binary Search.
+</br>
 
 More code will be Posted.
 
