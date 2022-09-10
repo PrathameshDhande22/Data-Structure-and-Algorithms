@@ -10,7 +10,7 @@ This folder contains the Code in C language for Doing the Data Structure and Alg
 1. **Array** : </br>
 &nbsp; filename : array.c </br>
 &nbsp; Description : Creating simple Array deletion,insertion,searching operation.
-</br>
+
 2. **Dynamic Array** : </br>
 &nbsp; filename : adt_array.c </br>
 &nbsp; Description : Creating the Dynamic Array and applying Insertion and Deletion Tecniques.</br>
