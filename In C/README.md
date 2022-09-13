@@ -18,6 +18,10 @@ This folder contains the Code in C language for Doing the Data Structure and Alg
 3. **Searching Algorithm** :</br>
 &nbsp; filename : searching_algorithm.c </br>
 &nbsp; Description : Implemented the Linear Search and Binary Search.
+
+4. **Linked List** :</br>
+&nbsp; filename : linkedList.c </br>
+&nbsp; Description : Linked List Implementation in C.
 </br>
 
 More code will be Posted.

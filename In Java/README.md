@@ -12,7 +12,13 @@ Contains all the code for DSA written in Java.</br>
 2. **Searching Algorithm** :</br>
 &nbsp; filename: searching_algorithm.java</br>
 &nbsp; Description : Implemented the binary and linear search. 
+
+3. **Linked List** : </br>
+&nbsp; filename : linkedList.java</br>
+&nbsp; Description : Implementation of the Linked List in java using Class.
 </br>
+
+
 
 More code will be Posted here.
 
