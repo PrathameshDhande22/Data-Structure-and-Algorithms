@@ -1,3 +1,4 @@
+package dsa;
 /*
  * Implementing the searching algorithm like binary search and linear search
  */
