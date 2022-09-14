@@ -1,6 +1,6 @@
 # Data Structure And Algorithms
 
-![](https://img.shields.io/badge/language-C&Java-blue?style=flat-square&logo=java)
+![](https://img.shields.io/badge/language-C_&_Java-blue?style=flat-square&logo=java)
 
 </br>
 <p align='left'>

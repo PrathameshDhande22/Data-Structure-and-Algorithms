@@ -1,6 +1,6 @@
 ## Data Structure and Algorithms Code in Java
 
-![](https://img.shields.io/badge/java-v17.0.4-red?style=flat-square) &nbsp;![](https://img.shields.io/badge/IDE-Eclipse-brown?style=flat-square)
+![](https://img.shields.io/badge/java-v17.0.4-red?style=flat-square) &nbsp;![](https://img.shields.io/badge/IDE-Eclipse_2022_06-brown?style=flat-square)
 
 
 Contains all the code for DSA written in Java.</br>
