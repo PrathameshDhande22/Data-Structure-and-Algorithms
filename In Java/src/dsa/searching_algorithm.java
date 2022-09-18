@@ -36,7 +36,8 @@ class S_Algorithm{
 public class searching_algorithm {
     public static void main(String[] args) {
         S_Algorithm sa=new S_Algorithm();
-        int lin_arr[]={12,34,112,56,78,89};
+        @SuppressWarnings("unused")
+		int lin_arr[]={12,34,112,56,78,89};
         int bin_arr[]={10,20,30,40,50,60,70};
         int element=20;
         // int index=sa.linearSearch(lin_arr, element);
