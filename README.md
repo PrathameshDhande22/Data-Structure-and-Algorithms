@@ -9,4 +9,22 @@ Currently I m Learning Data Structure and Algorithms.
 </br>
 Contains in Java Language</p>
 
+---
+<table border=1>
+<cation style="color:white;background-color:red">Contents In Repository : </caption>
+<tr>
+<th>Sr.No</th>
+<th>Title</th>
+<th>Link</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Bitwise Code & Problems</td>
+<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Bitwise.java">Click Here</a></td>
+</tr>
+</table>
+
+
+
+---
 ## Author : Prathamesh Dhande
