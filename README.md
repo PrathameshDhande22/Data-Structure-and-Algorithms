@@ -22,6 +22,11 @@ Contains in Java Language</p>
 <td>Bitwise Code & Problems</td>
 <td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Bitwise.java">Click Here</a></td>
 </tr>
+<tr>
+<td>2</td>
+<td>Prime Number and Code</td>
+<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Prime.java">Click Here</a></td>
+</tr>
 </table>
 
 
