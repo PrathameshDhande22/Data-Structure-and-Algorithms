@@ -27,6 +27,16 @@ Contains in Java Language</p>
 <td>Prime Number and Code</td>
 <td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Prime.java">Click Here</a></td>
 </tr>
+<tr>
+<td>2</td>
+<td>Square Root Code</td>
+<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/SquareRoot.java">Click Here</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Factors of A Number</td>
+<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Factors.java">Click Here</a></td>
+</tr>
 </table>
 
 
