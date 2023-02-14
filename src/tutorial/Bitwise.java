@@ -4,8 +4,9 @@ public class Bitwise {
 
 	public static void main(String[] args) {
 		bitwise();
-		System.out.println(getBit(6, 14));
+		System.out.println(getBit(2, 14));
 		System.out.println(setBit(3, 14));
+		System.out.println(isEven(5));
 	}
 
 	// problems on bitwise
@@ -58,5 +59,15 @@ public class Bitwise {
 		System.out.println(String.format("Binary of %d : %s", bit, Integer.toBinaryString(bit)));
 		System.out.println("Mask : " + Integer.toBinaryString(mask));
 		return Integer.toBinaryString(bit ^ mask);
+	}
+
+	/**
+	 * This Function checks if the Number is even or not using bitwise And operator
+	 * 
+	 * @param no
+	 * @return True if no is even else false if no is odd
+	 */
+	public static boolean isEven(int no) {
+		return (no & 1) == 0;
 	}
 }
