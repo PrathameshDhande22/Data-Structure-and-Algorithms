@@ -7,6 +7,8 @@ public class Bitwise {
 		System.out.println(getBit(2, 14));
 		System.out.println(setBit(3, 14));
 		System.out.println(isEven(5));
+		System.out.println(clearIthBits(10, 3));
+		System.out.println(clearRangeBits(10, 2, 4));
 	}
 
 	// problems on bitwise
@@ -69,5 +71,38 @@ public class Bitwise {
 	 */
 	public static boolean isEven(int no) {
 		return (no & 1) == 0;
+	}
+
+	/**
+	 * This function clear the I<sup>th</sup> Bits from the number.
+	 * 
+	 * @param n : Number
+	 * @param i : till where
+	 * @return Cleared bits from i
+	 */
+	public static int clearIthBits(int n, int i) {
+		int mask = (~0) << i;
+		System.out.println("Binary : " + Integer.toBinaryString(n));
+		System.out.println("Mask : " + Integer.toBinaryString(mask));
+		System.out.println("Answer : " + Integer.toBinaryString(n & mask));
+		return n & mask;
+	}
+
+	/**
+	 * This function clears the bits from the given range i to j
+	 * 
+	 * @param n : Number
+	 * @param i : from where
+	 * @param j : till
+	 * @return Cleared bits from the specified range (i,j).
+	 */
+	public static int clearRangeBits(int n, int i, int j) {
+		int a = (~0) << j + 1;
+		int b = (1 << i) - 1;
+		int mask = a | b;
+		System.out.println("Binary : " + Integer.toBinaryString(n));
+		System.out.println("Mask : " + Integer.toBinaryString(mask));
+		System.out.println("Answer : " + Integer.toBinaryString(n & mask));
+		return n & mask;
 	}
 }
