@@ -10,36 +10,25 @@ Currently I m Learning Data Structure and Algorithms.
 Contains in Java Language</p>
 
 ---
-<table border=1>
-<cation style="color:white;background-color:red">Contents In Repository : </caption>
-<tr>
-<th>Sr.No</th>
-<th>Title</th>
-<th>Link</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Bitwise Code & Problems</td>
-<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Bitwise.java">Click Here</a></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Prime Number and Code</td>
-<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Prime.java">Click Here</a></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Square Root Code</td>
-<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/SquareRoot.java">Click Here</a></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Factors of A Number</td>
-<td><a href="https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/blob/main/src/tutorial/Factors.java">Click Here</a></td>
-</tr>
-</table>
-
-
+## Contents in the Repository : 
+<pre>
+├── excercise
+│   └── Decimal.java => <b>Used to Convert the Decimal to Binary String</b>
+├── question
+│   └── Setbit.java => <b>Counts the no of 1's in bits</b>
+└── tutorial
+    ├── Arrays
+    │   ├── MinMax.java => Used for finding Smallest and Largest value in array
+    │   └── Searching.java => Searching Algorithms are Implemented Here
+    ├── BitMagic
+    │   └── Bitwise.java => Bitwise operators are implemented here
+    └── Math
+        ├── Factors.java => Factors are Implemented Here
+        ├── GCD.java => Calculates the GCD of two Numbers.
+        ├── Play_with_numbers.java => Extract the digits and reverses the Number.
+        ├── Prime.java => Methods to find Prime Number are Implemented
+        └── SquareRoot.java => Square Root methods are implemented Here
+</pre>
 
 ---
 ## Author : Prathamesh Dhande
