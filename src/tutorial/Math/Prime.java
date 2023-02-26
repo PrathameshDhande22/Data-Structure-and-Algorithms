@@ -1,10 +1,17 @@
-package tutorial;
+package tutorial.Math;
 
+/**
+ * Used to find the Prime Number.<br>
+ * Several Methods are implemented here to find the Prime Number.
+ * 
+ * @author Prathamesh
+ *
+ */
 public class Prime {
 
 	public static void main(String[] args) {
 		int no = 10;
-		System.out.println(isPrime(no)?"Prime":"Not Prime");
+		System.out.println(isPrime(no) ? "Prime" : "Not Prime");
 		generatePrimes(no);
 		Sieve(no);
 	}

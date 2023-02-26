@@ -1,5 +1,10 @@
-package tutorial;
+package tutorial.Math;
 
+/**
+ * Used to extract the Number from the no and also reverses the number.
+ * @author Prathamesh
+ *
+ */
 public class Play_with_numbers {
 
 	/**

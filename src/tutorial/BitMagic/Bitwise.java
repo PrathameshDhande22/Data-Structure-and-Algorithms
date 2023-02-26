@@ -1,5 +1,11 @@
-package tutorial;
+package tutorial.BitMagic;
 
+/**
+ * Bit magic operators tutorials are implemented here.
+ * 
+ * @author Prathamesh
+ *
+ */
 public class Bitwise {
 
 	public static void main(String[] args) {
@@ -9,6 +15,7 @@ public class Bitwise {
 		System.out.println(isEven(5));
 		System.out.println(clearIthBits(10, 3));
 		System.out.println(clearRangeBits(10, 2, 4));
+		System.out.println(fastExpo(4, 4));
 	}
 
 	// problems on bitwise
@@ -104,5 +111,24 @@ public class Bitwise {
 		System.out.println("Mask : " + Integer.toBinaryString(mask));
 		System.out.println("Answer : " + Integer.toBinaryString(n & mask));
 		return n & mask;
+	}
+
+	/**
+	 * This function calculates the a<sup>n</sup>
+	 * 
+	 * @param a
+	 * @param n
+	 * @return a<sup>n</sup>
+	 */
+	public static int fastExpo(int a, int n) {
+		int ans = 1;
+		while (n > 0) {
+			if ((n & 1) != 0) {
+				ans = ans * a;
+			}
+			a = a * a;
+			n = n >> 1;
+		}
+		return ans;
 	}
 }

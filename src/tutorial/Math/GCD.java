@@ -1,11 +1,18 @@
-package tutorial;
+package tutorial.Math;
 
 import java.util.Arrays;
 
+/**
+ * Calculates the Greatest Common Divisor Several Methods to find gcd are
+ * implemented here.
+ * 
+ * @author Prathamesh
+ *
+ */
 public class GCD {
 
 	/**
-	 * <h4>GCD Or Highest Common Factor</h1> This Function Calculates the GCD Of an
+	 * <h4>GCD Or Highest Common Factor</h4> This Function Calculates the GCD Of an
 	 * Number using while Loop
 	 * 
 	 * @param a

@@ -1,5 +1,10 @@
 package excercise;
 
+/**
+ * Used for Converting the Decimal to Binary String
+ * @author Prathamesh
+ *
+ */
 public class Decimal {
 	/**
 	 * this Method converts the Decimal no to Binary String

@@ -1,5 +1,11 @@
-package tutorial;
+package tutorial.Math;
 
+/**
+ * Used to find the factors of the number.
+ * 
+ * @author Prathamesh
+ *
+ */
 public class Factors {
 
 	public static void main(String[] args) {

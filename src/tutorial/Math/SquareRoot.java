@@ -1,5 +1,12 @@
-package tutorial;
+package tutorial.Math;
 
+/**
+ * Calculates the Square root of the Number.
+ * 
+ * 
+ * @author Prathamesh
+ *
+ */
 public class SquareRoot {
 
 	public static void main(String[] args) {

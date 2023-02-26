@@ -1,10 +1,17 @@
 package question;
 
+/**
+ * Consists of only one function viz. countbits
+ * 
+ * @author Prathamesh
+ *
+ */
 public class Setbit {
 
 	/**
 	 * This function counts the bits 1 in the no
-	 * @param no 
+	 * 
+	 * @param no : to count the bits 
 	 * @return Number of bit 1 in nof
 	 */
 	public static int countbits(int no) {
