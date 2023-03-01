@@ -59,6 +59,7 @@ public class Subarray {
 		int max = Integer.MIN_VALUE;
 		int sum = 0;
 		int prefix[] = new int[arr.length];
+
 		// calculation of prefix array
 		prefix[0] = arr[0];
 		for (int i = 1; i < arr.length; i++) {
@@ -70,12 +71,28 @@ public class Subarray {
 			for (int j = i; j < arr.length; j++) {
 				sum = i == 0 ? prefix[j] : prefix[j] - prefix[i - 1];
 				System.out.println("Sum = " + sum);
-				if (max < sum) {
-					max = sum;
-				}
+				max = Math.max(max, sum);
 			}
 		}
 		System.out.println("Maximum = " + max);
+	}
+
+	/**
+	 * Kadanes Algorithm implemented to find the subarray sum maximum
+	 * 
+	 * @param arr To be passed to Kadanes Algorithm;
+	 */
+	public static void kadanes(int arr[]) {
+		int max = Integer.MIN_VALUE;
+		int sum = 0;
+		for (int i = 0; i < arr.length; i++) {
+			sum += arr[i];
+			if (sum < 0) {
+				sum = 0;
+			}
+			max = Math.max(max, sum);
+		}
+		System.out.println("Maximum Subarray Sum is = " + max);
 	}
 
 	public static void main(String[] args) {
@@ -83,5 +100,7 @@ public class Subarray {
 		printSubarray(arr);
 		SubArraySumMinMax(arr);
 		PrefixSubMax(arr);
+//		int arr2[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
+		kadanes(arr);
 	}
 }
