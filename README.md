@@ -7,6 +7,9 @@
 This Repository Contains my Learning codes for Data Structure And Algorithms in Java Language.</br>
 Currently I m Learning Data Structure and Algorithms.
 </br>
+
+Contains all the Codes which were taught in the alpha 3.0 course of apna college
+
 Contains in Java Language</p>
 
 ---
@@ -39,15 +42,20 @@ Contains in Java Language</p>
     │   ├── Play_with_numbers.java
     │   ├── Prime.java
     │   └── SquareRoot.java
+    ├── Recursion
+    │   ├── ArrayIsSorted.java
+    │   └── RecursionBasics.java
     ├── Sorting
     │   ├── BubbleSort.java
     │   ├── Countingsort.java
     │   ├── InsertionSort.java
     │   └── SelectionSort.java
     └── Strings
+        ├── FirstLetterToUppercase.java
+        ├── LargestString.java
         ├── Palindrome.java
-        └── Shortestpath.java
-
+        ├── Shortestpath.java
+        └── StringCompression.java
 </pre>
 
 ---
