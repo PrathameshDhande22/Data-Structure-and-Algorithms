@@ -70,12 +70,12 @@ public class RecursionBasics {
 
 	public static void main(String[] args) {
 		int n = 10;
-//		printDecreasing(n);
+		printDecreasing(n);
 		System.out.println();
-//		printIncreasing(n);
+		printIncreasing(n);
 		System.out.println();
-//		System.out.println(factorial(5));
-//		System.out.println(sumNatural(n));
+		System.out.println(factorial(5));
+		System.out.println(sumNatural(n));
 		System.out.println(fibonnaci(6));
 	}
 }
