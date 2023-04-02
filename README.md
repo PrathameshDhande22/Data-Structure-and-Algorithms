@@ -44,6 +44,8 @@ Contains in Java Language</p>
     │   └── SquareRoot.java
     ├── Recursion
     │   ├── ArrayIsSorted.java
+    │   ├── FirstOccurence.java
+    │   ├── LastOccurence.java
     │   └── RecursionBasics.java
     ├── Sorting
     │   ├── BubbleSort.java
