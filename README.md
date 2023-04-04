@@ -20,6 +20,8 @@ Contains in Java Language</p>
 │   └── SearchinSortedMatrix.java
 ├── question
 │   ├── Rainwater.java
+│   ├── Recursion
+│   │   └── FindAllOccurences.java
 │   ├── Setbit.java
 │   └── TransposeofaMatrix.java
 └── tutorial
@@ -44,9 +46,14 @@ Contains in Java Language</p>
     │   └── SquareRoot.java
     ├── Recursion
     │   ├── ArrayIsSorted.java
+    │   ├── BinaryStringProblem.java
     │   ├── FirstOccurence.java
+    │   ├── FriendsPairing.java
     │   ├── LastOccurence.java
-    │   └── RecursionBasics.java
+    │   ├── Powerxn.java
+    │   ├── RecursionBasics.java
+    │   ├── RemoveDuplicatesFromString.java
+    │   └── TilingProblem.java
     ├── Sorting
     │   ├── BubbleSort.java
     │   ├── Countingsort.java
