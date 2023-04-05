@@ -13,6 +13,18 @@ Contains all the Codes which were taught in the alpha 3.0 course of apna college
 Contains in Java Language</p>
 
 ---
+
+## Topics Covered :
+[Maths For DSA](/src/tutorial/Math)</br>
+[Bit Manipulation](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/BitMagic)</br>
+[Arrays](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Arrays)</br>
+[2D Arrays](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Arrays2D)</br>
+[Strings](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Strings)</br>
+[Sorting](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Sorting)</br>
+[Recursion](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Recursion)</br>
+
+
+---
 ## Contents in the Repository : 
 <pre>
 ├── excercise
