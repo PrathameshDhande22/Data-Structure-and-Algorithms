@@ -16,12 +16,12 @@ Contains in Java Language</p>
 
 ## Topics Covered :
 [Maths For DSA](/src/tutorial/Math)</br>
-[Bit Manipulation](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/BitMagic)</br>
-[Arrays](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Arrays)</br>
-[2D Arrays](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Arrays2D)</br>
-[Strings](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Strings)</br>
-[Sorting](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Sorting)</br>
-[Recursion](https://github.com/PrathameshDhande22/Data-Structure-and-Algorithms/tree/main/src/tutorial/Recursion)</br>
+[Bit Manipulation](/src/tutorial/BitMagic)</br>
+[Arrays](src/tutorial/Arrays)</br>
+[2D Arrays](/src/tutorial/Arrays2D)</br>
+[Strings](/src/tutorial/Strings)</br>
+[Sorting](/src/tutorial/Sorting)</br>
+[Recursion](/src/tutorial/Recursion)</br>
 
 
 ---
