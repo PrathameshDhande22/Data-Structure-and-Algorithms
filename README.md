@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/language-Java-blue?style=flat-square&logo=java)
 
 </br>
-<p align='justify'>
+<p>
 This Repository Contains my Learning codes for Data Structure And Algorithms in Java Language.</br>
 Currently I m Learning Data Structure and Algorithms.
 </br>
@@ -17,12 +17,13 @@ Contains in Java Language</p>
 ## Topics Covered :
 [Maths For DSA](/src/tutorial/Math)</br>
 [Bit Manipulation](/src/tutorial/BitMagic)</br>
+[Patterns](/src/tutorial/Patterns)</br>
 [Arrays](src/tutorial/Arrays)</br>
 [2D Arrays](/src/tutorial/Arrays2D)</br>
 [Strings](/src/tutorial/Strings)</br>
 [Sorting](/src/tutorial/Sorting)</br>
 [Recursion](/src/tutorial/Recursion)</br>
-
+[Divide & Conquer](/src/tutorial/DivideAndConquer)</br>
 
 ---
 ## Contents in the Repository : 
