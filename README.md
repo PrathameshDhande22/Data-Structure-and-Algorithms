@@ -15,6 +15,7 @@ Contains in Java Language</p>
 ---
 
 ## Topics Covered :
+
 [Maths For DSA](/src/tutorial/Math)</br>
 [Bit Manipulation](/src/tutorial/BitMagic)</br>
 [Patterns](/src/tutorial/Patterns)</br>
@@ -26,15 +27,20 @@ Contains in Java Language</p>
 [Divide & Conquer](/src/tutorial/DivideAndConquer)</br>
 
 ---
-## Contents in the Repository : 
+
+## Contents in the Repository :
+
 <pre>
 ├── excercise
 │   ├── Decimal.java
 │   └── SearchinSortedMatrix.java
 ├── question
+│   ├── BinarySearch.java
 │   ├── Rainwater.java
 │   ├── Recursion
-│   │   └── FindAllOccurences.java
+│   │   ├── ConvertToString.java
+│   │   ├── FindAllOccurences.java
+│   │   └── LengthofString.java
 │   ├── Setbit.java
 │   └── TransposeofaMatrix.java
 └── tutorial
@@ -51,12 +57,18 @@ Contains in Java Language</p>
     │   └── SpiralMatrix.java
     ├── BitMagic
     │   └── Bitwise.java
+    ├── DivideAndConquer
+    │   ├── MergeSort.java
+    │   ├── QuickSort.java
+    │   └── Search_in_Rotated_Sorted_Array.java
     ├── Math
     │   ├── Factors.java
     │   ├── GCD.java
     │   ├── Play_with_numbers.java
     │   ├── Prime.java
     │   └── SquareRoot.java
+    ├── Patterns
+    │   └── Pattern.java
     ├── Recursion
     │   ├── ArrayIsSorted.java
     │   ├── BinaryStringProblem.java
@@ -66,7 +78,8 @@ Contains in Java Language</p>
     │   ├── Powerxn.java
     │   ├── RecursionBasics.java
     │   ├── RemoveDuplicatesFromString.java
-    │   └── TilingProblem.java
+    │   ├── TilingProblem.java
+    │   └── TowerofHanoi.java
     ├── Sorting
     │   ├── BubbleSort.java
     │   ├── Countingsort.java
@@ -81,4 +94,5 @@ Contains in Java Language</p>
 </pre>
 
 ---
+
 ## Author : Prathamesh Dhande
