@@ -31,66 +31,67 @@ Contains in Java Language</p>
 
 ## Contents in the Repository :
 
-1. Maths for DSA
-    - Factors with Optimized Code
-    - Finding GCD of A Number
-    - Number concepts like Getting Specified Number or reversing the number
-    - Prime number with seive of Erathosthenes
-    - Square Root
-2. Bit Manipulation
-    - Bit operations 
-    - Get the ith Bit
-    - Set the ith Bit
-    - Check if the number is even or not
-    - Clear the ith Bits
-    - Fast Exponential
-    - Clear range of Bits
-3. Patterns
-    - Butterfly Pattern
-    - Hollow Square Pattern
-    - Pyramid Star Pattern
-4. Arrays
-    - Finding Minimum and Maximum from Array
-    - Creating the Pairs 
-    - Reversing the Array
-    - Searching in the Array using Linear Search & Binary Search
-    - Subarray creating using Brute Approach, Prefix Sum and Kadanes Algorithm
-5. 2D Arrays
-    - 2D Array basic and Linear Search.
-    - Diagonal Sum of and Array
-    - Search in a Sorted Matrix
-    - Print the Spiral Matrix
-6. Strings
-    - First Letter to Uppercase Problem
-    - Largest String Problem
-    - Palindrome String
-    - Shortest Path Problem
-    - String Compression Problem
-7. Sorting
-    - Bubble Sort
-    - Counting Sort
-    - Insertion Sort
-    - Selection Sort
-8. Recursion
-    - Recursion Basics
-    - Check if Array is Sorted or Not
-    - Binary String without consecutive of Ones
-    - First Occurence in an Array
-    - Last Occurence in an Array
-    - Friends Pairing Problem
-    - Power of x<sup>y</sup> with Optimized Code
-    - Remove Duplicates from the String
-    - Tiling Problem
-    - Tower of Hanoi Problem
-9. Divide & Conquer
-    - Merge Sort
-    - Quick Sort
-    - Search in a Rotated Sorted Array
-10. Backtracking
+1. **Maths for DSA**
+   - Factors with Optimized Code
+   - Finding GCD of A Number
+   - Number concepts like Getting Specified Number or reversing the number
+   - Prime number with seive of Erathosthenes
+   - Square Root
+2. **Bit Manipulation**
+   - Bit operations
+   - Get the ith Bit
+   - Set the ith Bit
+   - Check if the number is even or not
+   - Clear the ith Bits
+   - Fast Exponential
+   - Clear range of Bits
+3. **Patterns**
+   - Butterfly Pattern
+   - Hollow Square Pattern
+   - Pyramid Star Pattern
+4. **Arrays**
+   - Finding Minimum and Maximum from Array
+   - Creating the Pairs
+   - Reversing the Array
+   - Searching in the Array using Linear Search & Binary Search
+   - Subarray creating using Brute Approach, Prefix Sum and Kadanes Algorithm
+5. **2D Arrays**
+   - 2D Array basic and Linear Search.
+   - Diagonal Sum of and Array
+   - Search in a Sorted Matrix
+   - Print the Spiral Matrix
+6. **Strings**
+   - First Letter to Uppercase Problem
+   - Largest String Problem
+   - Palindrome String
+   - Shortest Path Problem
+   - String Compression Problem
+7. **Sorting**
+   - Bubble Sort
+   - Counting Sort
+   - Insertion Sort
+   - Selection Sort
+8. **Recursion**
+   - Recursion Basics
+   - Check if Array is Sorted or Not
+   - Binary String without consecutive of Ones
+   - First Occurence in an Array
+   - Last Occurence in an Array
+   - Friends Pairing Problem
+   - Power of x<sup>y</sup> with Optimized Code
+   - Remove Duplicates from the String
+   - Tiling Problem
+   - Tower of Hanoi Problem
+9. **Divide & Conquer**
+   - Merge Sort
+   - Quick Sort
+   - Search in a Rotated Sorted Array
+10. **Backtracking**
     - Backtracking on array
     - Find Subsets Problem
     - NQueens Problem
     - Permutation Problem
+
 ---
 
 ## Author : Prathamesh Dhande
