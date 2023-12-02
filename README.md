@@ -91,6 +91,18 @@ Contains in Java Language</p>
     - Find Subsets Problem
     - NQueens Problem
     - Permutation Problem
+    - Gridways Problem
+    - Sudoku Solver
+
+
+#### Question & Practice
+1. **Backtracking**
+   - Rat in a Maze Game Problem
+2. **Recursion**
+   - Binary Search Using Recursion
+   - Trap Rainwater problem
+   - Set bit using Recursion
+   - Transpose of Matrix Problem.
 
 ---
 
