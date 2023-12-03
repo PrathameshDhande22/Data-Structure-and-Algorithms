@@ -12,6 +12,8 @@ Contains all the Codes which were taught in the alpha 3.0 course of apna college
 
 Contains in Java Language</p>
 
+#### 👉 HandWritten Notes will be Uploaded When the Course completes. 👈
+
 ---
 
 ## Topics Covered :
@@ -94,8 +96,8 @@ Contains in Java Language</p>
     - Gridways Problem
     - Sudoku Solver
 
-
 #### Question & Practice
+
 1. **Backtracking**
    - Rat in a Maze Game Problem
 2. **Recursion**
