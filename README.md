@@ -95,6 +95,10 @@ Contains in Java Language</p>
     - Permutation Problem
     - Gridways Problem
     - Sudoku Solver
+11. **ArrayList**
+    - Container with Most Water Problem
+    - Pair Sum 1 in Sorted Array
+    - Pair Sum 2 in Rotated Sorted Array
 
 #### Question & Practice
 
@@ -105,6 +109,8 @@ Contains in Java Language</p>
    - Trap Rainwater problem
    - Set bit using Recursion
    - Transpose of Matrix Problem.
+3. **ArrayList**
+   - Monotonic Array
 
 ---
 
