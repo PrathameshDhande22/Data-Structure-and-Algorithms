@@ -12,7 +12,7 @@ public class PairSum2 {
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		Collections.addAll(list, 11, 15, 6, 8, 9, 10);
 		int target = 16;
-		System.out.println(PairSum2(list, target));
+		System.out.println(pairSum2(list, target));
 
 	}
 
@@ -41,7 +41,7 @@ public class PairSum2 {
 	 * @return True if it's possible to find the pair of sum of given target sum
 	 *         otherwise false.
 	 */
-	public static boolean PairSum2(ArrayList<Integer> list, int target) {
+	public static boolean pairSum2(ArrayList<Integer> list, int target) {
 		// calculating the breaking point or pivot point
 		int pivot = pivotPoint(list);
 		int n = list.size();
