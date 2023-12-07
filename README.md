@@ -28,6 +28,7 @@ Contains in Java Language</p>
 [Recursion](/src/tutorial/Recursion)</br>
 [Divide & Conquer](/src/tutorial/DivideAndConquer)</br>
 [BackTracking](/src/tutorial/Backtracking)</br>
+[LinkedList](/src/tutorial/Linkedlist)</br>
 
 ---
 
@@ -99,6 +100,8 @@ Contains in Java Language</p>
     - Container with Most Water Problem
     - Pair Sum 1 in Sorted Array
     - Pair Sum 2 in Rotated Sorted Array
+12. **LinkedList**
+    - Linked List Implementation using OOPs.
 
 #### Question & Practice
 
