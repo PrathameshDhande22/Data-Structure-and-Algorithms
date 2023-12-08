@@ -158,6 +158,62 @@ public class linkedlist {
 		}
 	}
 
+	/**
+	 * Iterative Search in Linkedlist checks if the given key is present in linked
+	 * List or not. It Require the time Complexity of O(n). Just like the Linear
+	 * Search
+	 * 
+	 * @param key to search in the linkedList
+	 * @return index of the key if present in linkedlist otherwise -1 if not
+	 *         present.
+	 */
+	public int searchitr(int key) {
+		Node temp = head;
+		int index = 0;
+		while (temp != null) {
+			if (temp.data == key) {
+				return index;
+			}
+			index++;
+			temp = temp.next;
+		}
+		return -1;
+	}
+
+	/**
+	 * These is the recursive call for the searching in the linked list it is used
+	 * with the recSearch Method.
+	 * 
+	 * @param head of the Linked List
+	 * @param key  to be searched in the Linked List
+	 * @return index index of the key if present in linked list if not found then
+	 *         -1.
+	 */
+	private final int helper(Node head, int key) {
+		if (head == null) {
+			return -1;
+		}
+		if (head.data == key) {
+			return 0;
+		}
+		int idx = helper(head.next, key);
+		if (idx == -1) {
+			return idx;
+		}
+		return idx + 1;
+	}
+
+	/**
+	 * Searching the key in the linked list using recursion. It takes the time
+	 * Complexity of O(n).
+	 * 
+	 * @param key to be search in linked list
+	 * @return index of the key if present in linked list if not found then -1.
+	 */
+	public int recSearch(int key) {
+		return helper(head, key);
+	}
+
 	public static void main(String[] args) {
 		linkedlist ll = new linkedlist();
 		ll.addFirst(2);
@@ -166,12 +222,16 @@ public class linkedlist {
 		ll.addLast(4);
 		ll.traverse();
 		ll.add(3, 5);
-		ll.traverse();
-		System.out.println(ll.removeFirst());
-		ll.traverse();
-		System.out.println(ll.removeLast());
-		ll.traverse();
+//		ll.traverse();
+//		System.out.println(ll.removeFirst());
+//		ll.traverse();
+//		System.out.println(ll.removeLast());
+//		ll.traverse();
 		System.out.println(ll.size);
+		System.out.println(ll.searchitr(5));
+		System.out.println(ll.searchitr(9));
+		System.out.println(ll.recSearch(3));
+		System.out.println(ll.recSearch(8));
 	}
 
 }
