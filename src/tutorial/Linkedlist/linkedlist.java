@@ -3,7 +3,7 @@ package tutorial.Linkedlist;
 /**
  * LinkedList Implementation. Linkedlist is a linear data Structure.
  */
-public class linkedlist {
+public class LinkedList {
 	public Node head;
 	public Node tail;
 
@@ -214,24 +214,82 @@ public class linkedlist {
 		return helper(head, key);
 	}
 
+	/**
+	 * Reverses the Linked List from right to left.
+	 */
+	public void reverse() {
+		Node prev = null;
+		Node curr = tail = head;
+		Node next;
+		while (curr != null) {
+			next = curr.next;
+			curr.next = prev;
+			prev = curr;
+			curr = next;
+		}
+		head = prev;
+	}
+
+	/**
+	 * Delete's the last Nth Node from the End.
+	 * 
+	 * @param n nth number to delete the node
+	 * @throws NullPointerException when n<0.
+	 */
+	public void deletefromNthNode(int n) throws NullPointerException {
+		// calculate the size
+		int sz = 0;
+		Node temp = head;
+		while (temp != null) {
+			temp = temp.next;
+			sz++;
+		}
+
+		// remove first
+		if (n == sz) {
+			head = head.next;
+		} else if (n < 0) {
+			throw new NullPointerException("%d doesn't exist for length from 0 to %d".formatted(n, sz));
+		} else {
+			int i = 1;
+			int iToFind = sz - n;
+			Node prev = head;
+			while (i < iToFind) {
+				prev = prev.next;
+				i++;
+			}
+			prev.next = prev.next.next;
+		}
+	}
+
+	@Override
+	public String toString() {
+		traverse();
+		return "";
+	}
+
 	public static void main(String[] args) {
-		linkedlist ll = new linkedlist();
+		LinkedList ll = new LinkedList();
 		ll.addFirst(2);
 		ll.addFirst(1);
 		ll.addLast(3);
 		ll.addLast(4);
-		ll.traverse();
+//		ll.traverse();
 		ll.add(3, 5);
 //		ll.traverse();
 //		System.out.println(ll.removeFirst());
 //		ll.traverse();
 //		System.out.println(ll.removeLast());
 //		ll.traverse();
-		System.out.println(ll.size);
-		System.out.println(ll.searchitr(5));
-		System.out.println(ll.searchitr(9));
-		System.out.println(ll.recSearch(3));
-		System.out.println(ll.recSearch(8));
+//		System.out.println(ll.size);
+//		System.out.println(ll.searchitr(5));
+//		System.out.println(ll.searchitr(9));
+//		System.out.println(ll.recSearch(3));
+//		System.out.println(ll.recSearch(8));
+//		ll.reverse();
+		System.out.println(ll);
+		ll.deletefromNthNode(3);
+		System.out.println(ll);
 	}
 
 }
