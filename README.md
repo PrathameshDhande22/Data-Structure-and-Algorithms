@@ -101,7 +101,8 @@ Contains in Java Language</p>
     - Pair Sum 1 in Sorted Array
     - Pair Sum 2 in Rotated Sorted Array
 12. **LinkedList**
-    - Linked List Implementation using OOPs.
+    - Linked List Implementation using OOPs with many Methods like AddLast, AddFirst, etc.
+    - Check if a Linked List is Palindrome or Not.
 
 #### Question & Practice
 
