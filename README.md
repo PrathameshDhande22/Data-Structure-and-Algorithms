@@ -100,10 +100,12 @@ Contains in Java Language</p>
     - Container with Most Water Problem
     - Pair Sum 1 in Sorted Array
     - Pair Sum 2 in Rotated Sorted Array
-12. **LinkedList**
+12. **Linked List**
     - Linked List Implementation using OOPs with many Methods like AddLast, AddFirst, etc.
     - Check if a Linked List is Palindrome or Not.
     - Detect Cycle/Loop in a Linked List.
+    - Remove Cycle/Loop from the Linked List.
+    - Implementing the Linked List using Java Collection Framework.
 
 #### Question & Practice
 
