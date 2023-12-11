@@ -103,6 +103,7 @@ Contains in Java Language</p>
 12. **LinkedList**
     - Linked List Implementation using OOPs with many Methods like AddLast, AddFirst, etc.
     - Check if a Linked List is Palindrome or Not.
+    - Detect Cycle/Loop in a Linked List.
 
 #### Question & Practice
 
