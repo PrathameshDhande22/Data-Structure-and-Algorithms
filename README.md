@@ -107,6 +107,7 @@ Contains in Java Language</p>
     - Remove Cycle/Loop from the Linked List.
     - Implementing the Linked List using Java Collection Framework.
     - Merge Sort in Linked List.
+    - Zig Zag Linked List.
 
 #### Question & Practice
 
