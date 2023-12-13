@@ -106,6 +106,7 @@ Contains in Java Language</p>
     - Detect Cycle/Loop in a Linked List.
     - Remove Cycle/Loop from the Linked List.
     - Implementing the Linked List using Java Collection Framework.
+    - Merge Sort in Linked List.
 
 #### Question & Practice
 
