@@ -108,6 +108,7 @@ Contains in Java Language</p>
     - Implementing the Linked List using Java Collection Framework.
     - Merge Sort in Linked List.
     - Zig Zag Linked List.
+    - Doubly Linked List with its Methods implemented.
 
 #### Question & Practice
 
