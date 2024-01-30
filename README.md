@@ -16,7 +16,7 @@ Contains in Java Language</p>
 
 ---
 
-## Topics Covered :
+## Topics Covered
 
 [Maths For DSA](/src/tutorial/Math)</br>
 [Bit Manipulation](/src/tutorial/BitMagic)</br>
@@ -29,10 +29,10 @@ Contains in Java Language</p>
 [Divide & Conquer](/src/tutorial/DivideAndConquer)</br>
 [BackTracking](/src/tutorial/Backtracking)</br>
 [LinkedList](/src/tutorial/Linkedlist)</br>
-
+[Stack](/src/tutorial/Stack)</br>
 ---
 
-## Contents in the Repository :
+## Contents in the Repository
 
 1. **Maths for DSA**
    - Factors with Optimized Code
@@ -109,6 +109,9 @@ Contains in Java Language</p>
     - Merge Sort in Linked List.
     - Zig Zag Linked List.
     - Doubly Linked List with its Methods implemented.
+13. **Stack**
+    - Stack Implementation using ArrayList.
+    - Stack Implementation using LinkedList.
 
 #### Question & Practice
 
