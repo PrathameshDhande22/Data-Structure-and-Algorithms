@@ -30,6 +30,7 @@ Contains in Java Language</p>
 [BackTracking](/src/tutorial/Backtracking)</br>
 [LinkedList](/src/tutorial/Linkedlist)</br>
 [Stack](/src/tutorial/Stack)</br>
+
 ---
 
 ## Contents in the Repository
@@ -112,6 +113,10 @@ Contains in Java Language</p>
 13. **Stack**
     - Stack Implementation using ArrayList.
     - Stack Implementation using LinkedList.
+    - Push at Bottom of the Stack.
+    - Reverse Stack.
+    - Stack using Java Collection Framework.
+    - Stack Span Problem.
 
 #### Question & Practice
 
