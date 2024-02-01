@@ -117,6 +117,7 @@ Contains in Java Language</p>
     - Reverse Stack.
     - Stack using Java Collection Framework.
     - Stack Span Problem.
+    - Next Greater Element.
 
 #### Question & Practice
 
