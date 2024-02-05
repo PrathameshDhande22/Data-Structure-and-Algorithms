@@ -118,6 +118,10 @@ Contains in Java Language</p>
     - Stack using Java Collection Framework.
     - Stack Span Problem.
     - Next Greater Element.
+    - Valid Parentheses.
+    - Duplicate Parentheses.
+    - Max Area in Histogram.
+    - Reverse String using Stack.
 
 #### Question & Practice
 
