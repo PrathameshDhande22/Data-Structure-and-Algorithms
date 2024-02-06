@@ -136,6 +136,7 @@ Contains in Java Language</p>
    - Monotonic Array.
 4. **Stack**
    - Palindrome LinkedList.
+   - Simplify Path
 
 ---
 
