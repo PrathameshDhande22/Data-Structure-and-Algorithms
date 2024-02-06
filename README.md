@@ -133,7 +133,9 @@ Contains in Java Language</p>
    - Set bit using Recursion
    - Transpose of Matrix Problem.
 3. **ArrayList**
-   - Monotonic Array
+   - Monotonic Array.
+4. **Stack**
+   - Palindrome LinkedList.
 
 ---
 
