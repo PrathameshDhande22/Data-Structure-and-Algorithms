@@ -30,6 +30,7 @@ Contains in Java Language</p>
 [BackTracking](/src/tutorial/Backtracking)</br>
 [LinkedList](/src/tutorial/Linkedlist)</br>
 [Stack](/src/tutorial/Stack)</br>
+[Queue](/src/tutorial/Queue)</br>
 
 ---
 
@@ -122,6 +123,8 @@ Contains in Java Language</p>
     - Duplicate Parentheses.
     - Max Area in Histogram.
     - Reverse String using Stack.
+14. **Queue**
+    - Queue implementation using Array.
 
 #### Question & Practice
 
