@@ -125,6 +125,8 @@ Contains in Java Language</p>
     - Reverse String using Stack.
 14. **Queue**
     - Queue implementation using Array.
+    - Queue Implementation using LinkedList.
+    - Circular Queue implementation using Array.
 
 #### Question & Practice
 
