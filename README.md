@@ -127,6 +127,8 @@ Contains in Java Language</p>
     - Queue implementation using Array.
     - Queue Implementation using LinkedList.
     - Circular Queue implementation using Array.
+    - Queue Implementation using Java Collection Framework.
+    - Implementation of Queue using 2 Stacks.
 
 #### Question & Practice
 
