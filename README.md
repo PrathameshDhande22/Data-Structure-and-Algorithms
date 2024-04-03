@@ -123,6 +123,7 @@ Contains in Java Language</p>
     - Duplicate Parentheses.
     - Max Area in Histogram.
     - Reverse String using Stack.
+    - Implementation of Stack using 2 Queues.
 14. **Queue**
     - Queue implementation using Array.
     - Queue Implementation using LinkedList.
