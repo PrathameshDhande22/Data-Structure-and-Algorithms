@@ -130,6 +130,7 @@ Contains in Java Language</p>
     - Circular Queue implementation using Array.
     - Queue Implementation using Java Collection Framework.
     - Implementation of Queue using 2 Stacks.
+    - First Non Repeating Character in the String.
 
 #### Question & Practice
 
